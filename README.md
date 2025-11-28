@@ -5,7 +5,7 @@ Cientista de Dados com foco em Business Intelligence e Otimização de Processos
 
 
 
-## 🌐 Redes 
+## Redes 
 
 <p align="left">
 
